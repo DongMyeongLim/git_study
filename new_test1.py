@@ -1,2 +1,0 @@
-print('new test1')
-
